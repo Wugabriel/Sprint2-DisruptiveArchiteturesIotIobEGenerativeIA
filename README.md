@@ -1,4 +1,4 @@
-# OS Fácil - Sprint 2: Arquiteturas Disruptivas, IoT e IA Generativa
+# OS Fácil - Sprint 2: Disruptive Architetures Iot E Generative IA
 
 ## 1. Visão Geral e Evolução do Projeto
 

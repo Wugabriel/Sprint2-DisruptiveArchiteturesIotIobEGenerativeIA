@@ -1,0 +1,201 @@
+ID_OS;STATUS;VEICULO;PLACA;COR;DESCRICAO_SERVICO;VALOR_TOTAL;DATA_ABERTURA;DATA_FECHAMENTO;OBSERVACOES
+1;Pronto para Retirada;Ford Ka;JIL9G46;Azul;Verificação e reparo de vazamento de óleo no cárter.;1728.93;09/09/2025;14/09/2025;Cliente aguarda a cotação da peça X antes de autorizar o serviço.
+2;Em Teste;Duster;FKU1A43;Prata;Troca do amortecedor e kit batente dianteiro.;3475.01;28/09/2025;;O veículo foi lavado e aspirado após o serviço.
+3;Orçamento Pendente;Volkswagen Polo;JBR3W38;Prata;Instalação de sensor de estacionamento traseiro.;0.0;12/09/2025;;Recomendamos a troca do filtro de combustível.
+4;Aguardando Aprovação;Renault Kwid;UAK0J24;Cinza;Reparo no escapamento e substituição do catalisador.;3362.69;15/10/2025;;Realizar check-up completo em 1 ano.
+5;Em Andamento;Mercedes-Benz C180;KDI6I90;Vermelho;Reparo no sistema de arrefecimento: troca de mangueiras e aditivo.;1188.49;18/09/2025;;O valor não inclui o serviço de funilaria que será tratado separadamente.
+6;Concluída;Citroën C3;GNV5I87;Cinza;Troca do amortecedor e kit batente dianteiro.;1934.19;20/10/2025;04/11/2025;Serviço complexo, tempo de espera pode ser estendido.
+7;Pronto para Retirada;Ford Fiesta;YNQ9Z16;Vermelho;Troca de embreagem e volante do motor.;1912.63;04/10/2025;15/10/2025;Retorno agendado para 30 dias para checagem do reparo.
+8;Concluída;Mercedes-Benz C180;HYR2G95;Preto;Instalação de engate e parte elétrica.;2939.67;26/09/2025;27/09/2025;Necessário trocar pneu traseiro direito urgentemente.
+9;Pronto para Retirada;Fiat Argo;ANY8Y52;Cinza;Higienização do sistema de ar-condicionado e substituição do filtro de cabine.;1691.08;11/09/2025;23/09/2025;Carro de locadora. Seguir rigorosamente o manual.
+10;Em Teste;Fiat Argo;JXD6Y72;Vermelho;Substituição do líquido de arrefecimento e limpeza do radiador.;1922.43;09/10/2025;;Valor do serviço sujeito a alteração caso o câmbio precise ser aberto.
+11;Em Teste;Audi A3;IVC8G16;Cinza;Diagnóstico de ruído na direção hidráulica e troca de fluido.;2022.63;13/09/2025;;Serviço urgente solicitado pelo cliente devido a viagem.
+12;Em Andamento;Audi A3;ZBH8U45;Prata;Limpeza de bicos injetores, troca de velas e cabos.;3072.89;08/10/2025;;Serviço urgente solicitado pelo cliente devido a viagem.
+13;Em Andamento;Tesla Model 3;GAA0E50;Cinza;Revisão de 30.000 KM, balanceamento, rodízio de pneus e geometria.;2504.7;27/10/2025;;Valor do serviço sujeito a alteração caso o câmbio precise ser aberto.
+14;Aguardando Aprovação;Toyota Hilux;HUG9I68;Azul;Funilaria e pintura do para-choque dianteiro e porta do motorista.;2840.51;19/10/2025;;Odor estranho no ar-condicionado resolvido com a higienização.
+15;Aguardando Peças;Renault Kwid;UUE8V71;Vermelho;Troca do amortecedor e kit batente dianteiro.;1028.4;14/09/2025;;Carro de locadora. Seguir rigorosamente o manual.
+16;Em Andamento;Honda HR-V;NSY6O92;Vermelho;Diagnóstico de ruído na direção hidráulica e troca de fluido.;2580.38;09/10/2025;;Pequeno risco na lateral esquerda notado na entrada.
+17;Cancelada;Hyundai HB20;NYC5H19;Vermelho;Troca de pneus e válvulas.;0.0;14/09/2025;22/09/2025;Próxima revisão em 6 meses ou 10.000 KM.
+18;Pronto para Retirada;Fiat Argo;ATJ5H79;Branco;Troca do amortecedor e kit batente dianteiro.;1649.38;27/10/2025;30/10/2025;Problema intermitente na luz do painel resolvido.
+19;Pronto para Retirada;Chevrolet Cruze;ULG3K18;Branco;Reparo no sistema de arrefecimento: troca de mangueiras e aditivo.;3199.88;03/10/2025;10/10/2025;Valor do serviço sujeito a alteração caso o câmbio precise ser aberto.
+20;Em Andamento;Toyota Hilux;XDZ2S75;Azul;Higienização do sistema de ar-condicionado e substituição do filtro de cabine.;2888.24;05/11/2025;;Necessário troca das palhetas do limpador de para-brisa.
+21;Pronto para Retirada;Hyundai HB20;YAB6B15;Cinza;Revisão de caixa de câmbio manual e troca de óleo lubrificante.;3266.99;07/09/2025;07/09/2025;Necessário troca das palhetas do limpador de para-brisa.
+22;Pronto para Retirada;Fiat Strada;HOF3K13;Prata;Reparo em módulo de injeção eletrônica.;2389.94;10/09/2025;16/09/2025;Veículo com quilometragem alta, atentar aos fluídos.
+23;Pronto para Retirada;Fiat Uno;PHM8Z40;Prata;Reparo no escapamento e substituição do catalisador.;2316.88;19/09/2025;20/09/2025;Serviço complexo, tempo de espera pode ser estendido.
+24;Concluída;Jeep Renegade;FWW8I88;Prata;Troca de pastilhas de freio dianteiras e traseiras, discos e fluído.;310.36;07/09/2025;20/09/2025;Alinhamento e balanceamento realizados com sucesso.
+25;Cancelada;Peugeot 208;QGH8I25;Prata;Diagnóstico e reparo na suspensão traseira (molas e coxins).;0.0;09/09/2025;09/09/2025;Carro necessita de polimento geral.
+26;Em Teste;Hyundai Creta;BZO8L31;Azul;Instalação de sensor de estacionamento traseiro.;3403.84;05/11/2025;;Valor do serviço sujeito a alteração caso o câmbio precise ser aberto.
+27;Cancelada;Jeep Renegade;YEU2H51;Vermelho;Limpeza de bicos injetores, troca de velas e cabos.;0.0;25/09/2025;25/09/2025;Apenas a lavagem completa foi autorizada neste momento.
+28;Pronto para Retirada;Honda Civic;IWR0L68;Prata;Alinhamento a laser e cambagem.;682.43;21/09/2025;03/10/2025;Limpeza interna básica inclusa no pacote de revisão.
+29;Pronto para Retirada;Renault Kwid;IJI4B50;Branco;Funilaria e pintura do para-choque dianteiro e porta do motorista.;2598.93;09/10/2025;10/10/2025;Peças originais utilizadas conforme solicitação do proprietário.
+30;Aguardando Aprovação;Hyundai Creta;OOS0K74;Cinza;Funilaria e pintura do para-choque dianteiro e porta do motorista.;1068.41;13/09/2025;;Check-list de 50 itens realizado e anexo.
+31;Aguardando Aprovação;Chevrolet Cruze;MTN3P55;Prata;Troca de embreagem e volante do motor.;445.12;24/09/2025;;Aguardando a chegada da peça importada (previsão 5 dias úteis).
+32;Em Andamento;Citroën C3;BVS6L72;Cinza;Substituição do líquido de arrefecimento e limpeza do radiador.;540.51;20/09/2025;;Necessário trocar pneu traseiro direito urgentemente.
+33;Orçamento Pendente;Toyota Corolla;KFA9S38;Branco;Remoção de amassado sem pintura (PDR) no capô.;0.0;08/09/2025;;Carro necessita de polimento geral.
+34;Em Andamento;Fiat Palio;IPL7D24;Azul;Manutenção do sistema de freio ABS.;3145.98;22/09/2025;;Necessário trocar pneu traseiro direito urgentemente.
+35;Aguardando Aprovação;Fiat Argo;JUU1C74;Azul;Troca de pneus e válvulas.;2331.45;13/10/2025;;Carro de locadora. Seguir rigorosamente o manual.
+36;Em Teste;Toyota Hilux;NGH4M68;Branco;Troca do amortecedor e kit batente dianteiro.;3349.8;19/09/2025;;Aguardando a chegada da peça importada (previsão 5 dias úteis).
+37;Pronto para Retirada;Jeep Compass;VTY4G36;Prata;Revisão de 30.000 KM, balanceamento, rodízio de pneus e geometria.;3447.29;20/09/2025;02/10/2025;Veículo liberado após teste de rodagem sem ruídos.
+38;Aguardando Aprovação;Chevrolet Onix;RCV5N75;Azul;Revisão de caixa de câmbio manual e troca de óleo lubrificante.;2272.92;15/10/2025;;Veículo com quilometragem alta, atentar aos fluídos.
+39;Aguardando Peças;Audi A3;HFP1T35;Azul;Revisão de caixa de câmbio manual e troca de óleo lubrificante.;2239.75;13/10/2025;;Cliente autorizou apenas os itens essenciais da lista.
+40;Aguardando Peças;Chevrolet Onix;ZWT5X66;Azul;Verificação e reparo de vazamento de óleo no cárter.;1692.59;07/09/2025;;Limpeza interna básica inclusa no pacote de revisão.
+41;Concluída;Nissan Kicks;XUR2N72;Vermelho;Substituição da bomba de combustível e filtro de linha.;2162.73;23/09/2025;03/10/2025;Limpeza interna básica inclusa no pacote de revisão.
+42;Concluída;Renault Sandero;RNP1X59;Vermelho;Reparo no escapamento e substituição do catalisador.;3142.63;16/10/2025;24/10/2025;O valor não inclui o serviço de funilaria que será tratado separadamente.
+43;Concluída;Fiat Palio;DRO1I93;Prata;Diagnóstico de ruído na direção hidráulica e troca de fluido.;2955.97;11/09/2025;15/09/2025;Garantia de 90 dias para a parte elétrica.
+44;Concluída;Hyundai Creta;LJX6K80;Prata;Reparo de vidros elétricos: troca do motor e máquina.;2030.49;22/10/2025;30/10/2025;Motor com pequeno vazamento, monitorar.
+45;Aguardando Peças;Volkswagen Polo;SIB9C82;Prata;Limpeza de bicos injetores, troca de velas e cabos.;3316.75;17/10/2025;;Utilizado óleo sintético 5W30.
+46;Concluída;Hyundai HB20;QMT3C80;Prata;Diagnóstico de ruído na direção hidráulica e troca de fluido.;559.76;29/10/2025;30/10/2025;Cliente autorizou apenas os itens essenciais da lista.
+47;Em Andamento;Audi A3;RFM0S34;Azul;Reparo de vidros elétricos: troca do motor e máquina.;2764.35;18/09/2025;;Serviço urgente solicitado pelo cliente devido a viagem.
+48;Em Andamento;Fiat Toro;OGU8I96;Branco;Revisão de caixa de câmbio manual e troca de óleo lubrificante.;2397.34;02/10/2025;;Verificar o estado da bateria na próxima revisão.
+49;Em Andamento;Chevrolet Onix;ADV3Y14;Vermelho;Diagnóstico elétrico, reparo no alternador e substituição da bateria.;2204.18;16/10/2025;;Recomendamos a troca do filtro de combustível.
+50;Aguardando Aprovação;Volkswagen Polo;RVL4V12;Vermelho;Diagnóstico elétrico, reparo no alternador e substituição da bateria.;1117.07;27/09/2025;;Apenas a lavagem completa foi autorizada neste momento.
+51;Aguardando Peças;Fiat Argo;LVJ8K75;Vermelho;Diagnóstico elétrico, reparo no alternador e substituição da bateria.;3078.92;14/09/2025;;Foi identificada folga na suspensão dianteira que deve ser orçada à parte.
+52;Pronto para Retirada;Duster;XDM3Q71;Azul;Substituição da bomba de combustível e filtro de linha.;397.87;11/10/2025;24/10/2025;Pendente troca do escapamento, cliente não autorizou no momento.
+53;Aguardando Aprovação;Volkswagen Saveiro;JJR4D83;Prata;Limpeza de bicos injetores, troca de velas e cabos.;1148.53;17/09/2025;;Apenas a lavagem completa foi autorizada neste momento.
+54;Pronto para Retirada;Nissan Kicks;GWK1O27;Azul;Instalação de engate e parte elétrica.;315.49;05/10/2025;20/10/2025;Realizar check-up completo em 1 ano.
+55;Em Andamento;Fiat Palio;EKV7K56;Vermelho;Remoção de amassado sem pintura (PDR) no capô.;3494.77;12/09/2025;;Carro de locadora. Seguir rigorosamente o manual.
+56;Pronto para Retirada;Volkswagen T-Cross;DAK2E44;Azul;Troca de pneus e válvulas.;2811.8;08/09/2025;09/09/2025;Pequeno risco na lateral esquerda notado na entrada.
+57;Em Andamento;Chevrolet Celta;JTJ6W81;Azul;Instalação de sensor de estacionamento traseiro.;1686.74;14/09/2025;;Próxima revisão em 6 meses ou 10.000 KM.
+58;Aguardando Peças;Honda Civic;ZZN9Y41;Preto;Alinhamento a laser e cambagem.;3259.9;26/09/2025;;Carro de locadora. Seguir rigorosamente o manual.
+59;Em Andamento;Chevrolet Tracker;ILC2K68;Cinza;Manutenção do sistema de freio ABS.;1657.06;20/10/2025;;Utilizado óleo sintético 5W30.
+60;Em Teste;Ford Ka;HTL0Q26;Cinza;Troca do amortecedor e kit batente dianteiro.;710.49;19/10/2025;;Realizar check-up completo em 1 ano.
+61;Pronto para Retirada;Audi A3;PXQ4L42;Azul;Alinhamento a laser e cambagem.;1006.8;21/09/2025;26/09/2025;Necessário troca das palhetas do limpador de para-brisa.
+62;Cancelada;Chevrolet Cruze;ZKC1N74;Azul;Higienização do sistema de ar-condicionado e substituição do filtro de cabine.;0.0;10/09/2025;11/09/2025;Pendente troca do escapamento, cliente não autorizou no momento.
+63;Pronto para Retirada;Volkswagen Gol;DJW9M58;Vermelho;Revisão de caixa de câmbio manual e troca de óleo lubrificante.;2139.01;14/10/2025;24/10/2025;Alinhamento e balanceamento realizados com sucesso.
+64;Em Andamento;Ford Fiesta;JYM0X53;Cinza;Manutenção do sistema de freio ABS.;3020.04;10/09/2025;;Aguardando a chegada da peça importada (previsão 5 dias úteis).
+65;Aguardando Peças;Mitsubishi L200;IOH7V28;Vermelho;Troca de embreagem e volante do motor.;1728.7;18/09/2025;;Serviço complexo, tempo de espera pode ser estendido.
+66;Em Teste;Nissan Kicks;WKU0R74;Branco;Instalação de sensor de estacionamento traseiro.;371.56;08/09/2025;;Verificar o estado da bateria na próxima revisão.
+67;Em Teste;Peugeot 208;KXV9F72;Prata;Instalação de engate e parte elétrica.;1607.44;15/09/2025;;Realizar check-up completo em 1 ano.
+68;Concluída;Toyota Corolla;UXP4P76;Preto;Verificação e reparo de vazamento de óleo no cárter.;3416.13;19/09/2025;25/09/2025;Pendente troca do escapamento, cliente não autorizou no momento.
+69;Em Andamento;Fiat Strada;YRY8L95;Branco;Reparo em módulo de injeção eletrônica.;2311.99;03/11/2025;;Aguardando a chegada da peça importada (previsão 5 dias úteis).
+70;Aguardando Aprovação;Chevrolet Onix;OSQ7W81;Prata;Verificação e reparo de vazamento de óleo no cárter.;1093.86;05/11/2025;;Pendente troca do escapamento, cliente não autorizou no momento.
+71;Em Andamento;Jeep Compass;ZNF5K53;Azul;Diagnóstico e reparo na suspensão traseira (molas e coxins).;1927.58;09/10/2025;;Foi identificada folga na suspensão dianteira que deve ser orçada à parte.
+72;Em Andamento;Toyota Corolla;CFJ6D87;Prata;Reparo no sistema de arrefecimento: troca de mangueiras e aditivo.;2023.9;02/10/2025;;Cliente aguarda a cotação da peça X antes de autorizar o serviço.
+73;Cancelada;Mitsubishi L200;SDS3D83;Prata;Substituição da bomba de combustível e filtro de linha.;0.0;11/10/2025;12/10/2025;Data de entrega antecipada a pedido do cliente.
+74;Aguardando Peças;Fiat Toro;SXR1I68;Cinza;Revisão de caixa de câmbio manual e troca de óleo lubrificante.;1264.29;21/10/2025;;Pendente troca do escapamento, cliente não autorizou no momento.
+75;Em Andamento;Citroën C3;CKY0I50;Prata;Diagnóstico de ruído na direção hidráulica e troca de fluido.;2363.56;12/10/2025;;Data de entrega antecipada a pedido do cliente.
+76;Em Teste;Audi A3;QTO2U48;Branco;Higienização do sistema de ar-condicionado e substituição do filtro de cabine.;2853.13;12/09/2025;;Veículo com quilometragem alta, atentar aos fluídos.
+77;Aguardando Aprovação;Renault Kwid;SWG4A63;Azul;Substituição da bomba de combustível e filtro de linha.;864.28;07/09/2025;;Carro de locadora. Seguir rigorosamente o manual.
+78;Em Andamento;Volkswagen Gol;PBS9K65;Azul;Substituição da correia dentada e tensor.;1088.76;18/09/2025;;O veículo foi lavado e aspirado após o serviço.
+79;Cancelada;Chevrolet Celta;PMO4H77;Cinza;Reparo de vidros elétricos: troca do motor e máquina.;0.0;22/10/2025;28/10/2025;Retorno agendado para 30 dias para checagem do reparo.
+80;Orçamento Pendente;Ford Ka;QAD5I81;Branco;Remoção de amassado sem pintura (PDR) no capô.;0.0;20/10/2025;;Pendente troca do escapamento, cliente não autorizou no momento.
+81;Aguardando Peças;Jeep Compass;AYZ6D47;Vermelho;Remoção de amassado sem pintura (PDR) no capô.;3218.21;03/11/2025;;Pendente troca do escapamento, cliente não autorizou no momento.
+82;Concluída;Volkswagen Jetta;NKM4H48;Azul;Manutenção do sistema de freio ABS.;1746.54;23/10/2025;23/10/2025;Pendente troca do escapamento, cliente não autorizou no momento.
+83;Em Andamento;Peugeot 208;IJN2A48;Azul;Limpeza de bicos injetores, troca de velas e cabos.;3122.39;18/10/2025;;Carro de locadora. Seguir rigorosamente o manual.
+84;Aguardando Peças;Toyota Corolla;HZT5D51;Preto;Diagnóstico e reparo na suspensão traseira (molas e coxins).;1682.67;10/10/2025;;Veículo com quilometragem alta, atentar aos fluídos.
+85;Concluída;Volkswagen T-Cross;FOQ8O21;Prata;Diagnóstico elétrico, reparo no alternador e substituição da bateria.;1264.38;26/09/2025;08/10/2025;Foi identificada folga na suspensão dianteira que deve ser orçada à parte.
+86;Aguardando Peças;Volkswagen Saveiro;ISD3J62;Branco;Substituição do líquido de arrefecimento e limpeza do radiador.;1140.51;12/10/2025;;O veículo foi lavado e aspirado após o serviço.
+87;Aguardando Peças;Toyota Hilux;IXO1G12;Preto;Reparo em módulo de injeção eletrônica.;665.86;19/10/2025;;Não foi possível testar o veículo com carga total.
+88;Aguardando Aprovação;Caoa Chery Tiggo 5X;UAF5S43;Vermelho;Remoção de amassado sem pintura (PDR) no capô.;1305.5;16/09/2025;;Verificar o estado da bateria na próxima revisão.
+89;Aguardando Peças;Volkswagen Polo;BXC2R13;Branco;Revisão de 10.000 KM, troca de óleo, filtros de ar e alinhamento.;645.51;30/10/2025;;Não foi possível testar o veículo com carga total.
+90;Aguardando Aprovação;Nissan Kicks;XCP3H50;Cinza;Verificação e reparo de vazamento de óleo no cárter.;1819.31;17/10/2025;;Valor do serviço sujeito a alteração caso o câmbio precise ser aberto.
+91;Concluída;Jeep Compass;OKU1N49;Cinza;Diagnóstico de ruído na direção hidráulica e troca de fluido.;776.04;14/09/2025;15/09/2025;Veículo com quilometragem alta, atentar aos fluídos.
+92;Pronto para Retirada;Honda HR-V;SQQ9E69;Preto;Higienização do sistema de ar-condicionado e substituição do filtro de cabine.;2052.74;22/09/2025;24/09/2025;Odor estranho no ar-condicionado resolvido com a higienização.
+93;Pronto para Retirada;Volkswagen Gol;PHE3C47;Branco;Limpeza de bicos injetores, troca de velas e cabos.;3103.97;01/10/2025;04/10/2025;Carro necessita de polimento geral.
+94;Concluída;Audi A3;UCD9U80;Prata;Troca do amortecedor e kit batente dianteiro.;2842.13;28/10/2025;28/10/2025;Verificar o estado da bateria na próxima revisão.
+95;Orçamento Pendente;Toyota Corolla;SHW0Z21;Prata;Revisão de caixa de câmbio manual e troca de óleo lubrificante.;0.0;02/11/2025;;Aguardando a chegada da peça importada (previsão 5 dias úteis).
+96;Orçamento Pendente;Jeep Compass;FYR7K59;Azul;Troca de pneus e válvulas.;0.0;13/10/2025;;Pendente troca do escapamento, cliente não autorizou no momento.
+97;Pronto para Retirada;Peugeot 208;IJK3X75;Prata;Instalação de engate e parte elétrica.;1612.43;07/09/2025;13/09/2025;Carro necessita de polimento geral.
+98;Pronto para Retirada;Ford Fiesta;TVI0Z76;Cinza;Instalação de engate e parte elétrica.;1417.07;05/11/2025;05/11/2025;Limpeza interna básica inclusa no pacote de revisão.
+99;Em Teste;Fiat Strada;DYY0Z43;Branco;Diagnóstico de ruído na direção hidráulica e troca de fluido.;2864.85;12/10/2025;;Garantia de 90 dias para a parte elétrica.
+100;Cancelada;Hyundai HB20;OWR1Y56;Branco;Remoção de amassado sem pintura (PDR) no capô.;0.0;13/10/2025;21/10/2025;Pendente troca do escapamento, cliente não autorizou no momento.
+101;Pronto para Retirada;Jeep Renegade;OKN0J33;Cinza;Reparo no sistema de arrefecimento: troca de mangueiras e aditivo.;3107.91;01/11/2025;01/11/2025;O valor não inclui o serviço de funilaria que será tratado separadamente.
+102;Concluída;Nissan Kicks;LSM5E53;Azul;Revisão de 30.000 KM, balanceamento, rodízio de pneus e geometria.;1095.07;16/10/2025;26/10/2025;Próxima revisão em 6 meses ou 10.000 KM.
+103;Aguardando Aprovação;Toyota Corolla;PRT9Z32;Vermelho;Manutenção do sistema de freio ABS.;3190.46;29/09/2025;;Odor estranho no ar-condicionado resolvido com a higienização.
+104;Orçamento Pendente;Volkswagen Polo;DWM6B88;Prata;Revisão de caixa de câmbio manual e troca de óleo lubrificante.;0.0;28/09/2025;;Valor do serviço sujeito a alteração caso o câmbio precise ser aberto.
+105;Em Teste;Volkswagen Polo;WTS7J74;Prata;Reparo no escapamento e substituição do catalisador.;1860.52;02/11/2025;;Garantia de 90 dias para a parte elétrica.
+106;Aguardando Peças;Fiat Uno;FQC6K32;Azul;Troca de embreagem e volante do motor.;2932.88;16/09/2025;;Não foi possível testar o veículo com carga total.
+107;Em Teste;Renault Sandero;DOS7H61;Cinza;Instalação de engate e parte elétrica.;1310.97;04/11/2025;;Veículo com quilometragem alta, atentar aos fluídos.
+108;Aguardando Aprovação;Chevrolet Tracker;XTB5G24;Vermelho;Diagnóstico de ruído na direção hidráulica e troca de fluido.;910.39;16/09/2025;;Necessário trocar pneu traseiro direito urgentemente.
+109;Aguardando Aprovação;Caoa Chery Tiggo 5X;OTT6G71;Prata;Remoção de amassado sem pintura (PDR) no capô.;3015.43;05/10/2025;;Problema intermitente na luz do painel resolvido.
+110;Aguardando Aprovação;Fiat Toro;GVO1Y12;Prata;Substituição da bomba de combustível e filtro de linha.;1285.54;10/10/2025;;Verificar o estado da bateria na próxima revisão.
+111;Em Andamento;Volkswagen Jetta;QPA9I68;Azul;Alinhamento a laser e cambagem.;355.66;18/09/2025;;Troca do fluido de freio é recomendada na próxima manutenção.
+112;Orçamento Pendente;Toyota Corolla;KDR4U29;Branco;Reparo no sistema de ignição (bobina e velas).;0.0;27/09/2025;;Veículo com quilometragem alta, atentar aos fluídos.
+113;Aguardando Aprovação;Mercedes-Benz C180;UXR8J13;Branco;Substituição da correia dentada e tensor.;2166.79;23/09/2025;;Foi identificada folga na suspensão dianteira que deve ser orçada à parte.
+114;Em Teste;Honda HR-V;ILR0K84;Prata;Substituição da bomba de combustível e filtro de linha.;1854.95;15/10/2025;;Odor estranho no ar-condicionado resolvido com a higienização.
+115;Em Andamento;Hyundai HB20;ANK4J28;Azul;Troca de pneus e válvulas.;530.79;27/09/2025;;Cliente autorizou apenas os itens essenciais da lista.
+116;Orçamento Pendente;Honda Civic;DQU4K44;Cinza;Diagnóstico de ruído na direção hidráulica e troca de fluido.;0.0;02/11/2025;;Serviço complexo, tempo de espera pode ser estendido.
+117;Orçamento Pendente;BMW 320i;IQG3O41;Vermelho;Troca de pneus e válvulas.;0.0;27/10/2025;;Check-list de 50 itens realizado e anexo.
+118;Cancelada;Fiat Argo;SAI1V36;Vermelho;Reparo no sistema de ignição (bobina e velas).;0.0;19/09/2025;19/09/2025;Peças originais utilizadas conforme solicitação do proprietário.
+119;Aguardando Peças;Volkswagen Polo;ZJL6F31;Cinza;Substituição do líquido de arrefecimento e limpeza do radiador.;3042.28;07/10/2025;;Cliente autorizou apenas os itens essenciais da lista.
+120;Pronto para Retirada;Fiat Strada;GYL1I52;Cinza;Instalação de engate e parte elétrica.;3176.85;28/09/2025;02/10/2025;Valor do serviço sujeito a alteração caso o câmbio precise ser aberto.
+121;Em Andamento;Audi A3;CVJ1P87;Branco;Instalação de engate e parte elétrica.;2690.39;19/10/2025;;Data de entrega antecipada a pedido do cliente.
+122;Concluída;Caoa Chery Tiggo 5X;DAE2D22;Azul;Funilaria e pintura do para-choque dianteiro e porta do motorista.;1745.58;18/09/2025;20/09/2025;Data de entrega antecipada a pedido do cliente.
+123;Aguardando Aprovação;Volkswagen Saveiro;FQH9G55;Preto;Reparo de vidros elétricos: troca do motor e máquina.;3399.11;20/09/2025;;Check-list de 50 itens realizado e anexo.
+124;Em Andamento;Honda Civic;CNF0O61;Preto;Remoção de amassado sem pintura (PDR) no capô.;1007.94;28/09/2025;;Limpeza interna básica inclusa no pacote de revisão.
+125;Aguardando Aprovação;Caoa Chery Tiggo 5X;AAA6K12;Prata;Substituição da bomba de combustível e filtro de linha.;1500.92;03/10/2025;;Troca do fluido de freio é recomendada na próxima manutenção.
+126;Pronto para Retirada;Duster;GDS7T78;Cinza;Limpeza de bicos injetores, troca de velas e cabos.;2127.99;09/09/2025;23/09/2025;Não foi possível testar o veículo com carga total.
+127;Pronto para Retirada;Caoa Chery Tiggo 5X;PEH4H78;Cinza;Revisão de 30.000 KM, balanceamento, rodízio de pneus e geometria.;534.21;25/10/2025;04/11/2025;Foi identificada folga na suspensão dianteira que deve ser orçada à parte.
+128;Cancelada;Duster;YHN0A40;Azul;Diagnóstico e reparo na suspensão traseira (molas e coxins).;0.0;25/10/2025;06/11/2025;Carro necessita de polimento geral.
+129;Pronto para Retirada;Fiat Uno;CGN6H70;Cinza;Limpeza de bicos injetores, troca de velas e cabos.;1589.66;08/09/2025;22/09/2025;Veículo liberado após teste de rodagem sem ruídos.
+130;Aguardando Peças;Toyota Hilux;TOH4G85;Prata;Reparo no sistema de ignição (bobina e velas).;1005.12;23/10/2025;;Peças originais utilizadas conforme solicitação do proprietário.
+131;Em Andamento;Chevrolet Celta;NHQ0D26;Cinza;Substituição da correia dentada e tensor.;3002.38;26/09/2025;;Retorno agendado para 30 dias para checagem do reparo.
+132;Aguardando Peças;Volkswagen Saveiro;QZJ7A94;Preto;Troca do amortecedor e kit batente dianteiro.;2534.55;17/10/2025;;Verificar o estado da bateria na próxima revisão.
+133;Em Teste;Chevrolet Tracker;HNC0B21;Preto;Alinhamento a laser e cambagem.;1962.24;28/09/2025;;Recomendamos a troca do filtro de combustível.
+134;Concluída;Renault Kwid;KTE3Y39;Vermelho;Troca de pastilhas de freio dianteiras e traseiras, discos e fluído.;2573.48;12/10/2025;25/10/2025;Recomendamos a troca do filtro de combustível.
+135;Pronto para Retirada;Volkswagen T-Cross;SRP5V16;Cinza;Reparo de vidros elétricos: troca do motor e máquina.;3003.93;08/09/2025;13/09/2025;Carro necessita de polimento geral.
+136;Cancelada;Audi A3;YBW1B50;Cinza;Reparo de vidros elétricos: troca do motor e máquina.;0.0;17/10/2025;29/10/2025;Combustível no tanque abaixo da reserva.
+137;Aguardando Aprovação;Volkswagen Jetta;SGK5O21;Cinza;Troca de pneus e válvulas.;2807.02;22/10/2025;;Cliente autorizou apenas os itens essenciais da lista.
+138;Pronto para Retirada;Chevrolet Celta;OWS7L51;Branco;Funilaria e pintura do para-choque dianteiro e porta do motorista.;1529.52;22/09/2025;29/09/2025;Odor estranho no ar-condicionado resolvido com a higienização.
+139;Em Andamento;Tesla Model 3;VIU1K94;Vermelho;Diagnóstico elétrico, reparo no alternador e substituição da bateria.;2375.98;19/09/2025;;Revisão de cortesia devido a problemas recorrentes.
+140;Em Andamento;Audi A3;JWB9A12;Preto;Substituição da bomba de combustível e filtro de linha.;3420.52;21/10/2025;;Cliente aguarda a cotação da peça X antes de autorizar o serviço.
+141;Cancelada;Chevrolet Tracker;SBS5Z74;Azul;Diagnóstico elétrico, reparo no alternador e substituição da bateria.;0.0;04/10/2025;09/10/2025;Motor com pequeno vazamento, monitorar.
+142;Aguardando Peças;Chevrolet Tracker;QID5H20;Vermelho;Instalação de engate e parte elétrica.;1266.56;27/09/2025;;Revisão de cortesia devido a problemas recorrentes.
+143;Pronto para Retirada;Nissan Kicks;GEY0R49;Azul;Reparo no sistema de arrefecimento: troca de mangueiras e aditivo.;1799.59;19/09/2025;20/09/2025;Carro de locadora. Seguir rigorosamente o manual.
+144;Orçamento Pendente;Chevrolet Cruze;SWT4X32;Branco;Instalação de sensor de estacionamento traseiro.;0.0;15/09/2025;;Veículo com quilometragem alta, atentar aos fluídos.
+145;Em Andamento;Toyota Corolla;DAT5T67;Prata;Troca de embreagem e volante do motor.;1482.04;22/10/2025;;Cliente solicitou a devolução das peças antigas.
+146;Em Andamento;Chevrolet Celta;KBB5C13;Branco;Reparo de vidros elétricos: troca do motor e máquina.;2720.85;24/09/2025;;Pequeno risco na lateral esquerda notado na entrada.
+147;Orçamento Pendente;Honda HR-V;KRM2J71;Branco;Revisão de 30.000 KM, balanceamento, rodízio de pneus e geometria.;0.0;09/10/2025;;Veículo liberado após teste de rodagem sem ruídos.
+148;Aguardando Peças;Tesla Model 3;QRH1I22;Prata;Troca de pastilhas de freio dianteiras e traseiras, discos e fluído.;2608.82;31/10/2025;;Data de entrega antecipada a pedido do cliente.
+149;Concluída;Volkswagen T-Cross;NSL5A64;Preto;Reparo no sistema de ignição (bobina e velas).;2068.97;06/10/2025;15/10/2025;Revisão de cortesia devido a problemas recorrentes.
+150;Pronto para Retirada;Ford Ka;LOQ2E65;Vermelho;Substituição do líquido de arrefecimento e limpeza do radiador.;1479.08;24/10/2025;30/10/2025;Odor estranho no ar-condicionado resolvido com a higienização.
+151;Em Teste;Audi A3;MRI0Q67;Azul;Diagnóstico elétrico, reparo no alternador e substituição da bateria.;1217.97;01/11/2025;;Serviço complexo, tempo de espera pode ser estendido.
+152;Em Teste;Ford Ka;KIM5A45;Vermelho;Reparo no sistema de arrefecimento: troca de mangueiras e aditivo.;3343.86;26/09/2025;;Realizar check-up completo em 1 ano.
+153;Orçamento Pendente;Chevrolet Onix;YQW9K59;Prata;Reparo no escapamento e substituição do catalisador.;0.0;13/09/2025;;Serviço urgente solicitado pelo cliente devido a viagem.
+154;Concluída;Volkswagen Polo;PTE6W71;Cinza;Substituição da correia dentada e tensor.;706.04;06/11/2025;06/11/2025;Cliente solicitou a devolução das peças antigas.
+155;Aguardando Peças;Duster;HOI5U70;Prata;Troca do amortecedor e kit batente dianteiro.;581.14;15/10/2025;;Verificar o estado da bateria na próxima revisão.
+156;Aguardando Aprovação;Toyota Hilux;WET6Q39;Cinza;Manutenção do sistema de freio ABS.;1161.34;03/10/2025;;Valor do serviço sujeito a alteração caso o câmbio precise ser aberto.
+157;Em Andamento;Fiat Palio;NOF4R36;Prata;Substituição do líquido de arrefecimento e limpeza do radiador.;2918.89;10/10/2025;;Realizar check-up completo em 1 ano.
+158;Aguardando Aprovação;Volkswagen T-Cross;IWW8P61;Preto;Diagnóstico e reparo na suspensão traseira (molas e coxins).;1092.27;07/10/2025;;Alinhamento e balanceamento realizados com sucesso.
+159;Cancelada;Jeep Compass;RUV0M82;Prata;Limpeza de bicos injetores, troca de velas e cabos.;0.0;05/11/2025;05/11/2025;Orçamento não aprovado. Apenas diagnóstico realizado.
+160;Cancelada;BMW 320i;INN2T90;Prata;Substituição da bomba de combustível e filtro de linha.;0.0;03/10/2025;08/10/2025;Peças originais utilizadas conforme solicitação do proprietário.
+161;Pronto para Retirada;Mitsubishi L200;YEB8G93;Vermelho;Verificação e reparo de vazamento de óleo no cárter.;1026.83;18/09/2025;03/10/2025;Cliente autorizou apenas os itens essenciais da lista.
+162;Orçamento Pendente;Peugeot 208;JEY8R87;Vermelho;Troca de embreagem e volante do motor.;0.0;23/10/2025;;Cliente autorizou apenas os itens essenciais da lista.
+163;Orçamento Pendente;Chevrolet Tracker;PQP4G19;Cinza;Diagnóstico e reparo na suspensão traseira (molas e coxins).;0.0;12/10/2025;;Verificar o estado da bateria na próxima revisão.
+164;Em Andamento;Mitsubishi L200;QZG1Q76;Branco;Reparo em módulo de injeção eletrônica.;1720.44;22/10/2025;;Odor estranho no ar-condicionado resolvido com a higienização.
+165;Concluída;Honda Civic;IXT4Z10;Branco;Revisão de 30.000 KM, balanceamento, rodízio de pneus e geometria.;1563.58;23/10/2025;28/10/2025;Necessário trocar pneu traseiro direito urgentemente.
+166;Em Andamento;Volkswagen Gol;ZGJ0M16;Cinza;Diagnóstico e reparo na suspensão traseira (molas e coxins).;2131.11;04/10/2025;;Serviço complexo, tempo de espera pode ser estendido.
+167;Orçamento Pendente;Volkswagen T-Cross;KUP1M63;Azul;Reparo no sistema de ignição (bobina e velas).;0.0;30/10/2025;;Verificar o estado da bateria na próxima revisão.
+168;Aguardando Peças;Fiat Toro;YZL9H58;Vermelho;Verificação e reparo de vazamento de óleo no cárter.;2318.6;31/10/2025;;Check-list de 50 itens realizado e anexo.
+169;Em Andamento;Caoa Chery Tiggo 5X;TXL3W92;Branco;Diagnóstico de ruído na direção hidráulica e troca de fluido.;1019.69;18/10/2025;;Carro necessita de polimento geral.
+170;Aguardando Peças;Fiat Uno;VYT3T60;Cinza;Manutenção do sistema de freio ABS.;2929.78;07/10/2025;;Problema intermitente na luz do painel resolvido.
+171;Aguardando Aprovação;Chevrolet Cruze;PTW3U76;Branco;Diagnóstico e reparo na suspensão traseira (molas e coxins).;809.81;04/10/2025;;Cliente autorizou apenas os itens essenciais da lista.
+172;Cancelada;Volkswagen Polo;PUZ1A42;Vermelho;Substituição do líquido de arrefecimento e limpeza do radiador.;0.0;10/09/2025;25/09/2025;Cliente solicitou a devolução das peças antigas.
+173;Aguardando Peças;Chevrolet Tracker;NYI6S47;Azul;Substituição do líquido de arrefecimento e limpeza do radiador.;1552.76;13/09/2025;;Check-list de 50 itens realizado e anexo.
+174;Cancelada;Mercedes-Benz C180;NLN5T52;Branco;Substituição do líquido de arrefecimento e limpeza do radiador.;0.0;11/10/2025;23/10/2025;Próxima revisão em 6 meses ou 10.000 KM.
+175;Concluída;Chevrolet Cruze;URO3Q87;Vermelho;Funilaria e pintura do para-choque dianteiro e porta do motorista.;1927.58;09/09/2025;20/09/2025;Limpeza interna básica inclusa no pacote de revisão.
+176;Em Andamento;Volkswagen Gol;JHC9S38;Branco;Reparo no sistema de arrefecimento: troca de mangueiras e aditivo.;3037.2;27/10/2025;;Apenas a lavagem completa foi autorizada neste momento.
+177;Aguardando Aprovação;Fiat Strada;DGG4G66;Branco;Reparo de vidros elétricos: troca do motor e máquina.;3152.26;30/09/2025;;Pequeno risco na lateral esquerda notado na entrada.
+178;Pronto para Retirada;Fiat Toro;THB3P46;Azul;Substituição da correia dentada e tensor.;2556.69;31/10/2025;01/11/2025;Veículo liberado após teste de rodagem sem ruídos.
+179;Em Andamento;Renault Kwid;FDE8P21;Vermelho;Reparo no sistema de ignição (bobina e velas).;3280.94;02/10/2025;;Não foi possível testar o veículo com carga total.
+180;Orçamento Pendente;Renault Sandero;MOB6W49;Prata;Limpeza de bicos injetores, troca de velas e cabos.;0.0;14/10/2025;;Peças originais utilizadas conforme solicitação do proprietário.
+181;Cancelada;Hyundai Creta;JHL4V83;Prata;Reparo no sistema de ignição (bobina e velas).;0.0;26/09/2025;28/09/2025;Utilizado óleo sintético 5W30.
+182;Em Andamento;Renault Kwid;UDG6O14;Prata;Troca do amortecedor e kit batente dianteiro.;921.34;05/11/2025;;Limpeza interna básica inclusa no pacote de revisão.
+183;Em Teste;Mercedes-Benz C180;IUR9C81;Cinza;Reparo no sistema de ignição (bobina e velas).;950.49;30/10/2025;;Odor estranho no ar-condicionado resolvido com a higienização.
+184;Em Teste;Fiat Strada;VAT7O60;Prata;Troca de embreagem e volante do motor.;354.17;03/11/2025;;Limpeza interna básica inclusa no pacote de revisão.
+185;Em Andamento;Toyota Hilux;ADQ0K46;Cinza;Troca de pneus e válvulas.;2787.65;21/10/2025;;Limpeza interna básica inclusa no pacote de revisão.
+186;Em Andamento;Chevrolet Cruze;PGO3P45;Azul;Reparo no sistema de arrefecimento: troca de mangueiras e aditivo.;1516.93;24/10/2025;;Realizar check-up completo em 1 ano.
+187;Pronto para Retirada;Renault Kwid;VTQ7B76;Azul;Revisão de caixa de câmbio manual e troca de óleo lubrificante.;2055.59;29/09/2025;06/10/2025;Problema intermitente na luz do painel resolvido.
+188;Cancelada;Caoa Chery Tiggo 5X;QVU6G44;Cinza;Revisão de nível de fluídos e calibragem de pneus.;0.0;20/10/2025;04/11/2025;Retorno agendado para 30 dias para checagem do reparo.
+189;Cancelada;Renault Kwid;ZAQ5Y77;Prata;Substituição da bomba de combustível e filtro de linha.;0.0;22/09/2025;26/09/2025;Apenas a lavagem completa foi autorizada neste momento.
+190;Cancelada;Fiat Argo;ZKY0M47;Prata;Remoção de amassado sem pintura (PDR) no capô.;0.0;22/10/2025;01/11/2025;Recomendamos a troca do filtro de combustível.
+191;Aguardando Peças;Hyundai HB20;VIC1T58;Preto;Funilaria e pintura do para-choque dianteiro e porta do motorista.;451.82;24/10/2025;;Alinhamento e balanceamento realizados com sucesso.
+192;Orçamento Pendente;Fiat Toro;MTJ9F65;Azul;Troca de embreagem e volante do motor.;0.0;13/09/2025;;Check-list de 50 itens realizado e anexo.
+193;Cancelada;Citroën C3;HWG3U58;Azul;Substituição da bomba de combustível e filtro de linha.;0.0;24/09/2025;27/09/2025;Não foi possível testar o veículo com carga total.
+194;Aguardando Aprovação;Chevrolet Cruze;MHE1U20;Preto;Funilaria e pintura do para-choque dianteiro e porta do motorista.;2738.12;14/10/2025;;Limpeza interna básica inclusa no pacote de revisão.
+195;Aguardando Peças;Chevrolet Celta;HIX0P97;Vermelho;Diagnóstico de ruído na direção hidráulica e troca de fluido.;2373.9;29/10/2025;;Limpeza interna básica inclusa no pacote de revisão.
+196;Aguardando Peças;Hyundai Creta;TWY7V84;Preto;Troca do amortecedor e kit batente dianteiro.;694.36;15/10/2025;;Necessário troca das palhetas do limpador de para-brisa.
+197;Orçamento Pendente;Chevrolet Tracker;FIT4Y74;Azul;Reparo no sistema de ignição (bobina e velas).;0.0;11/10/2025;;Veículo com quilometragem alta, atentar aos fluídos.
+198;Aguardando Peças;Ford Ka;NQO8C57;Branco;Funilaria e pintura do para-choque dianteiro e porta do motorista.;1339.24;22/10/2025;;O valor não inclui o serviço de funilaria que será tratado separadamente.
+199;Concluída;Toyota Corolla;WII5U54;Preto;Reparo no sistema de arrefecimento: troca de mangueiras e aditivo.;2640.13;02/11/2025;05/11/2025;Não foi possível testar o veículo com carga total.
+200;Aguardando Peças;Toyota Hilux;LNW3U26;Azul;Funilaria e pintura do para-choque dianteiro e porta do motorista.;1216.67;17/10/2025;;Veículo liberado após teste de rodagem sem ruídos.
